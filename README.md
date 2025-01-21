@@ -1,12 +1,22 @@
 - 👋 Hi, I’m @zufran123
 - 👀 I’m interested in Machine Learning and Software Development...
 - 🌱 I’m currently learning Web and Mobile app development...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: .He/His..
-- ⚡ Fun fact: ...
 
-<!---
-zufran123/zufran123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to My GitHub Profile! 👋
+Hi there! I'm Mohd Zufran, a passionate and enthusiastic fresher diving into the world of coding and technology. Here's a little about me:
+
+🚀 About Me
+🎓 Background: MCA graduate.
+💻 Interests: I enjoy exploring programming, web development, and problem-solving.
+🌱 Currently Learning: Application development & Artificial Intelligence.
+🎯 Goal: To grow as a developer, contribute to exciting projects, and enhance my skills.
+🔧 Skills & Tools
+Programming Languages: C, C++, Python, Java,JavaScript,SQL,R.
+Tools & Technologies: Git & Github.
+Eager to learn new things and embrace challenges!
+🤝 Let's Connect
+💌 Feel free to reach out to me for collaboration, questions, or just a friendly chat.
+📫 Email: mohdzufran6@gmail.com
+💼 LinkedIn: http://www.linkedin.com/in/mohdzufran 
+Thank you for visiting my profile! Looking forward to growing and collaborating in this amazing community.
