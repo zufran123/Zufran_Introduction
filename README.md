@@ -1,14 +1,10 @@
-- 👋 Hi, I’m @zufran123
-- 👀 I’m interested in Machine Learning and Software Development...
-- 🌱 I’m currently learning Web and Mobile app development...
-- 😄 Pronouns: .He/His..
-
 Welcome to My GitHub Profile! 👋
 Hi there! I'm Mohd Zufran, a passionate and enthusiastic fresher diving into the world of coding and technology. Here's a little about me:
 
 🚀 About Me
 🎓 Background: MCA graduate.
 💻 Interests: I enjoy exploring programming, web development, and problem-solving.
+- 😄 Pronouns: .He/His
 🌱 Currently Learning: Application development & Artificial Intelligence.
 🎯 Goal: To grow as a developer, contribute to exciting projects, and enhance my skills.
 🔧 Skills & Tools
